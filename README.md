@@ -41,7 +41,6 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 28. Write a program that takes two numbers as user input and calculates the sum of the numbers divisible by 5, 7, and 13 individually between those two input numbers. Do this using a while loop.<br/>
   <i>Sample Input</i>:<br/>
   10 50<br/>
-
   <i>Output</i>:<br/>
   Sum of numbers divisible by 5: 270<br/>
   Sum of numbers divisible by 7: 189<br/>
@@ -50,50 +49,47 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 29. Write a program to print the ASCII values and their corresponding characters for all alphabetic characters (both uppercase and lowercase letters). Do this using a for loop.
 
 30. Write a program that takes four float numbers (a, b, c, d) as input and calculates the result of the following expression: (a^b / c)^d. Do this without using math.h library. Write the code using while loops.<br/>
-  Sample Input:<br/>
+ <i>Sample Input</i>:<br/>
   Enter the value of a: 2<br/>
   Enter the value of b: 3<br/>
   Enter the value of c: 4<br/>
   Enter the value of d: 2<br/>
-
-  Output:<br/>
+  <i>Output</i>:<br/>
   4.0
 
 31. Write a program that takes a number to calculate its factorial and sums up all the even numbers between the input number and its factorial. Do this using for loops.<br/>  
-  Sample Input:<br/>
+  <i>Sample Input</i>:<br/>
   Enter a number: 4<br/>
-  
   Output:<br/>
   The factorial of 4 is: 24<br/>
   The sum of even numbers between 4 and 24 is: 154<br/>
 
 32. Write a program that takes an odd number N as input from keyboard and finds the value of the following series:<br/>
 (3/2)^2 + (5/2)^2 + (7/2)^2 + ... + (N/2)^2<br/> 
-  Sample Input:<br/>
-  Enter a number: 5<br/>
-  
-  Output:<br/>
+  <i>Sample Input</i>:<br/>
+  Enter a number: 5<br/>  
+  <i>Output</i>:<br/>
   8.5
 
 33. Write a C program which can input some persons’ ages and display how many of them are teenagers.<br/>  
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   7<br/>
   12 19 24 11 17 13 65<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   Teenage: 3
 
 34. Write a C program which can input some persons’ ages and display how many of them are voters.<br/>  
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   7<br/>
   12 19 24 11 17 13 65<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   Teenage: 3
 
 35. Write a C program which can input some persons’ ages and display the number of people in each category. There are three categories – Child (Up to 12 years), Teenager (13-19 Years) and senior citizen (65 and 65+)<br/>  
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   7<br/>
   12 19 24 11 17 13 65<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   Child:2<br/>
   Teenager: 3<br/>
   Senior Citizen: 1
@@ -105,10 +101,10 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 38. Write a C program which can input some 2D points and display in which quadrant the most points fall.
 
 39. Write a C program which can input some day’s temperature and display the average temperature of those days when temperatures cross 30 0 .<br/>  
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   5<br/>
   32 29 34 21 27<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   Teenage: 33.00
 
 40. Checking prime numbers
@@ -150,75 +146,75 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 58. Display how many students has improved in their studies than previous semester.
 
 59. Write a C program which can input the last seven days temperature into an array and display the average temperature.<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   36 35 39 37 38 39 38<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   37.428571
 
 60. Write a C program which can input some persons’ age into an array and display how many of them are older than the average age of those people.<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   6<br/>
   40 30 1010 15 15<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   2
 
 61. Write a C program which can input some students' age of a particular class into an array and display the number of teenagers in that class.<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   6<br/>
   40 30 10 10 15 15<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   2
 
 62. Write a C program which can input some students' marks and check whether any student got full marks. You may assume that the exam’s total mark is 30.<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   6<br/>
   22 29 10 10 15 15<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   No
 
 63. Write a C program which can input some students’ marks and display which grades are achieved by most of the students (Grades are A (>=90), B (>=80), C (>=70), and D (>=60))<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   8<br/>
   77 65 74 97 87 85 99 80<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   B
 
 64. Write a C program which can some 2D points into an array (The x values in one array and y values in another array). Display how many points are in each quadrant.<br/>
-  Sample Input.<br/>
+  <i>Sample Input</i>:<br/>
   4<br/>
   5 5<br/>
   8 8<br/>
   4 9<br/>
   3 1<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   4 0 0 0
 
 65. Write a C program which can input the last seven days temperature into an array and display the highest temperature. How many days that highest value is found.<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   36 35 39 37 38 39 38<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   39<br/>
   2
 
 66. Write a C program which can input some numbers into an array and display the highest value among the odd values and of the even values separately.<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   36 35 39 37 34 39 34<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   39<br/>
   36
 
 67. Write a C program which can input some students’ marks and display average, variance and standard deviation.<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   36 35 39 37 34 39 34<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   36.285714<br/>
   3.918367<br/>
   1.979486
 
 68. Write a C program which can input some numbers and display how many of them are divisible by immediate previous element of the array.<br/>
-  Sample Input<br/>
+  <i>Sample Input</i>:<br/>
   40 10 30 15 30 30 30<br/>
-  Sample Output<br/>
+  <i>Sample Output</i>:<br/>
   4
 
 69. Enter numbers and see how namy factors are there for the numbers (Using Array).
