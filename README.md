@@ -38,9 +38,9 @@ In this repository, there are some practice problems of  <b>"Structured Programm
       if taxable income is in the range 300001-500000 then charge 20% tax.<br>
       if taxable income is above 500001 then charge 30% tax.<br>
 <br>
- 28. Write a program that takes two numbers as user input and calculates the sum of the numbers divisible by 5, 7, and 13 individually between those two input numbers. Do this using a while loop.<br/>
+  28. Write a program that takes two numbers as user input and calculates the sum of the numbers divisible by 5, 7, and 13 individually between those two input numbers. Do this using a while loop.<br/>
 
-  Sample Input:<br/>
+  <br/>Sample Input:<br/>
   10 50<br/>
 
   Output:<br/>
@@ -50,7 +50,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 
 29. Write a program to print the ASCII values and their corresponding characters for all alphabetic characters (both uppercase and lowercase letters). Do this using a for loop.
 
-30. Write a program that takes four float numbers (a, b, c, d) as input and calculates the result of the following expression: (a^b / c)^d. Do this without using math.h library. Write the code using while loops.<be/>
+30. Write a program that takes four float numbers (a, b, c, d) as input and calculates the result of the following expression: (a^b / c)^d. Do this without using math.h library. Write the code using while loops.<br/>
 
   Sample Input:<br/>
   Enter the value of a: 2<br/>
