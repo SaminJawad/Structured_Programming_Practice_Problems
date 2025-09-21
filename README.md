@@ -50,6 +50,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 29. Write a program to print the ASCII values and their corresponding characters for all alphabetic characters (both uppercase and lowercase letters). Do this using a for loop.
 
 30. Write a program that takes four float numbers (a, b, c, d) as input and calculates the result of the following expression: (a^b / c)^d. Do this without using math.h library. Write the code using while loops.<br/>
+  
   Sample Input:<br/>
   Enter the value of a: 2<br/>
   Enter the value of b: 3<br/>
@@ -60,6 +61,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
   4.0
 
 31. Write a program that takes a number to calculate its factorial and sums up all the even numbers between the input number and its factorial. Do this using for loops.<br/>
+  
   Sample Input:<br/>
   Enter a number: 4<br/>
   
@@ -69,6 +71,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 
 32. Write a program that takes an odd number N as input from keyboard and finds the value of the following series:<br/>
 (3/2)^2 + (5/2)^2 + (7/2)^2 + ... + (N/2)^2<br/>
+  
   Sample Input:<br/>
   Enter a number: 5<br/>
   
@@ -76,6 +79,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
   8.5
 
 33. Write a C program which can input some persons’ ages and display how many of them are teenagers.<br/>
+  
   Sample Input<br/>
   7<br/>
   12 19 24 11 17 13 65<br/>
@@ -83,6 +87,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
   Teenage: 3
 
 34. Write a C program which can input some persons’ ages and display how many of them are voters.<br/>
+  
   Sample Input<br/>
   7<br/>
   12 19 24 11 17 13 65<br/>
@@ -90,6 +95,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
   Teenage: 3
 
 35. Write a C program which can input some persons’ ages and display the number of people in each category. There are three categories – Child (Up to 12 years), Teenager (13-19 Years) and senior citizen (65 and 65+)<br/>
+  
   Sample Input<br/>
   7<br/>
   12 19 24 11 17 13 65<br/>
@@ -105,6 +111,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 38. Write a C program which can input some 2D points and display in which quadrant the most points fall.
 
 39. Write a C program which can input some day’s temperature and display the average temperature of those days when temperatures cross 30 0 .<br/>
+  
   Sample Input<br/>
   5<br/>
   32 29 34 21 27<br/>
