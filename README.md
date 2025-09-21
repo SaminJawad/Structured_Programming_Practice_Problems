@@ -38,7 +38,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
       if taxable income is in the range 300001-500000 then charge 20% tax.<br>
       if taxable income is above 500001 then charge 30% tax.<br>
 <br>
-28. Write a program that takes two numbers as user input and calculates the sum of the numbers divisible by 5, 7, and 13 individually between those two input numbers. Do this using a while loop.<br/>
+ 28. Write a program that takes two numbers as user input and calculates the sum of the numbers divisible by 5, 7, and 13 individually between those two input numbers. Do this using a while loop.<br/>
 
   Sample Input:<br/>
   10 50<br/>
