@@ -48,7 +48,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 
 29. Write a program to print the ASCII values and their corresponding characters for all alphabetic characters (both uppercase and lowercase letters). Do this using a for loop.
 
-30. Write a program that takes four float numbers (a, b, c, d) as input and calculates the result of the following expression: (a^b / c)^d. Do this without using math.h library. Write the code using while loops.<br/>
+30. Write a program that takes four float numbers (a, b, c, d) as input and calculates the result of the following expression: (a^b / c)^d. Do this without using math.h library. Write the code using while loops.<br/> 
  <i>Sample Input</i>:<br/>
   Enter the value of a: 2<br/>
   Enter the value of b: 3<br/>
@@ -100,14 +100,14 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 
 38. Write a C program which can input some 2D points and display in which quadrant the most points fall.
 
-39. Write a C program which can input some day’s temperature and display the average temperature of those days when temperatures cross 30 0 .<br/>  
+39. Write a C program which can input some day’s temperature and display the average temperature of those days when temperatures cross 30.0.<br/>  
   <i>Sample Input</i>:<br/>
   5<br/>
   32 29 34 21 27<br/>
   <i>Sample Output</i>:<br/>
   Teenage: 33.00
 
-40. Checking prime numbers
+40. Checking prime numbers.
 
 41. Display all factors of a number.
 
