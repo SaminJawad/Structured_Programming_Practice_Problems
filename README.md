@@ -38,8 +38,7 @@ In this repository, there are some practice problems of  <b>"Structured Programm
       if taxable income is in the range 300001-500000 then charge 20% tax.<br>
       if taxable income is above 500001 then charge 30% tax.<br>
 <br>
-  28. Write a program that takes two numbers as user input and calculates the sum of the numbers divisible by 5, 7, and 13 individually between those two input numbers. Do this using a while loop.<br/>
-
+   28. Write a program that takes two numbers as user input and calculates the sum of the numbers divisible by 5, 7, and 13 individually between those two input numbers. Do this using a while loop.<br/>
   <br/>Sample Input:<br/>
   10 50<br/>
 
@@ -51,7 +50,6 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 29. Write a program to print the ASCII values and their corresponding characters for all alphabetic characters (both uppercase and lowercase letters). Do this using a for loop.
 
 30. Write a program that takes four float numbers (a, b, c, d) as input and calculates the result of the following expression: (a^b / c)^d. Do this without using math.h library. Write the code using while loops.<br/>
-
   Sample Input:<br/>
   Enter the value of a: 2<br/>
   Enter the value of b: 3<br/>
@@ -62,7 +60,6 @@ In this repository, there are some practice problems of  <b>"Structured Programm
   4.0
 
 31. Write a program that takes a number to calculate its factorial and sums up all the even numbers between the input number and its factorial. Do this using for loops.<br/>
-
   Sample Input:<br/>
   Enter a number: 4<br/>
   
@@ -72,7 +69,6 @@ In this repository, there are some practice problems of  <b>"Structured Programm
 
 32. Write a program that takes an odd number N as input from keyboard and finds the value of the following series:<br/>
 (3/2)^2 + (5/2)^2 + (7/2)^2 + ... + (N/2)^2<br/>
-
   Sample Input:<br/>
   Enter a number: 5<br/>
   
@@ -80,7 +76,6 @@ In this repository, there are some practice problems of  <b>"Structured Programm
   8.5
 
 33. Write a C program which can input some persons’ ages and display how many of them are teenagers.<br/>
-
   Sample Input<br/>
   7<br/>
   12 19 24 11 17 13 65<br/>
@@ -88,7 +83,6 @@ In this repository, there are some practice problems of  <b>"Structured Programm
   Teenage: 3
 
 34. Write a C program which can input some persons’ ages and display how many of them are voters.<br/>
-
   Sample Input<br/>
   7<br/>
   12 19 24 11 17 13 65<br/>
